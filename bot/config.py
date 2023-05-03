@@ -4,7 +4,7 @@ class config:
     API_HASH = "127f130ad3745dbcd31aa39aa0eabcb8"
     DATABASE_URL = "postgresql://postgres:NTkGqCMvGtRDIl7DE7x6@containers-us-west-138.railway.app:5873/railway"
     SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "https://t.me/+iR0XZIijZbwzYzdl"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "696277737465-u279goq240bs0acl8nm3jvacpre4nh5a.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "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"
